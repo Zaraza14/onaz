@@ -1,0 +1,19 @@
+.mar-auto {
+    margin: auto;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    display: inline-block;
+    margin: 15px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.result {
+    margin-top: 50px;
+}
